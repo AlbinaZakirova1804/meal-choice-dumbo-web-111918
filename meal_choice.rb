@@ -3,6 +3,7 @@
 
 def meal_choice(meal = 'meat')
   meal
-  meal = 'vegan'
   #binding.pry
 end
+
+meal_choice('vegan')
